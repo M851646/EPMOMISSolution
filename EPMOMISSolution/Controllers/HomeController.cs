@@ -26,7 +26,7 @@ namespace EPMOMISSolution.Controllers
 
             return View();
 
-            /* My name is Patrick *\
+            /* My name is Patrick ROFL*\
         }
     }
 }
