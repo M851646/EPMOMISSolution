@@ -26,7 +26,7 @@ namespace EPMOMISSolution.Controllers
 
             return View();
 
-            /* Pratik Kumar *\
+            /* My name is Patrick *\
         }
     }
 }
